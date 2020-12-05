@@ -55,6 +55,24 @@ dependencies = [
 ]
 
 [[package]]
+name = "aoc-2020d5p1"
+version = "0.1.0"
+dependencies = [
+ "anyhow",
+ "itertools",
+ "regex",
+]
+
+[[package]]
+name = "aoc-2020d5p2"
+version = "0.1.0"
+dependencies = [
+ "anyhow",
+ "itertools",
+ "regex",
+]
+
+[[package]]
 name = "either"
 version = "1.6.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
